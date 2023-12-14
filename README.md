@@ -1,2 +1,2 @@
-# Mathematical-Algorithms-Python
-Basic Mathematical algorithms in python 
+# Algorithms-Python
+Basic algorithms in python 
